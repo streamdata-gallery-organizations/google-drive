@@ -4,7 +4,7 @@ x-collection-name: Google Drive
 x-complete: 1
 info:
   title: Google Drive
-  description: manages-files-in-drive-including-uploading-downloading-searching-detecting-changes-and-updating-sharing-permissions
+  description: manages-files-in-drive-including-uploading-downloading-searching-detecting-changes-and-updating-sharing-permissions-
   termsOfService: https://developers.google.com/terms/
   contact:
     name: Google
